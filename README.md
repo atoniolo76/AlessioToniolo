@@ -14,6 +14,9 @@ I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 I also am the head software developer for the @BotsinBlackRobotics robotics team that competes in the First Tech Challenge, programming
 in Java and Kotlin. 
 
+![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=AlessioToniolo)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioToniolo)
 
 **Some things about me:**
 
