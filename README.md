@@ -42,6 +42,6 @@ in Java and Kotlin.
   - Motion profiling, PID, and odometry localization for mobile robots
 - 📫 How to reach me: ...
   - DISCORD
-    - **rechargedgluten#7520
+    - **rechargedgluten#7520**
 - ⚡ Fun fact: ...
   - Not even in highschool!
