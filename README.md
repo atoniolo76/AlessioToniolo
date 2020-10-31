@@ -22,7 +22,7 @@ in Java and Kotlin.
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
-  - GSpeed, an A* pathfinding program for automated robot teleop (for FTC) through localization on playing field
+  - [GSpeed](https://github.com/AlessioToniolo/GSpeed), an A* pathfinding program for automated robot teleop (for FTC) through localization on playing field
   - TraneCV, a transfer learning ml library with Tensorflow for rapid production of new computer vision uses in FTC
   - COVID Stats, a cli app for fetching newest COVID-19 statistics
   - EqualCopy, a chrome extension that reformats your clipboard to match font for all text typing in the browser
@@ -45,4 +45,3 @@ in Java and Kotlin.
     - **rechargedgluten#7520
 - ⚡ Fun fact: ...
   - Not even in highschool!
--->
