@@ -23,9 +23,9 @@ in Java and Kotlin.
 
 - 🔭 I’m currently working on ...
   - [GSpeed](https://github.com/AlessioToniolo/GSpeed), an A* pathfinding program for automated robot teleop (for FTC) through localization on playing field
-  - TraneCV, a transfer learning ml library with Tensorflow for rapid production of new computer vision uses in FTC
-  - COVID Stats, a cli app for fetching newest COVID-19 statistics
-  - EqualCopy, a chrome extension that reformats your clipboard to match font for all text typing in the browser
+  - [TraneCV](https://github.com/AlessioToniolo/TraneCV), a transfer learning ml library with Tensorflow for rapid production of new computer vision uses in FTC
+  - [COVID Stats](https://github.com/AlessioToniolo/COVID-Stats), a cli app for fetching newest COVID-19 statistics
+  - [EqualCopy](https://github.com/AlessioToniolo/EqualCopy), a chrome extension that reformats your clipboard to match font for all text typing in the browser
   - iOS and Android app using React Native *coming soon!* 🤫🤫🤫
 - 🌱 I’m currently learning ...
   - Advanced Express Functionality
