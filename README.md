@@ -14,8 +14,6 @@ I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 I also am the head software developer for the @BotsinBlack robotics team that competes in the First Tech Challenge, programming
 in Java and Kotlin. 
 
-<!--
-**AlessioToniolo/AlessioToniolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Some things about me:**
 
