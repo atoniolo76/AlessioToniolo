@@ -10,7 +10,7 @@ I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 * REST APIs
 * Front-end
 * Fetch api
-* *and other great stuff!*
+* *and other great stuff!* /n
 I also am the head software developer for the @BotsinBlackRobotics robotics team that competes in the First Tech Challenge, programming
 in Java and Kotlin. 
 
