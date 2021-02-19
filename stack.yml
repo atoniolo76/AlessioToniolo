@@ -1,0 +1,49 @@
+- name: Python
+  logo: python
+  url: https://python.org
+  color: 3776ab
+  projects: 
+    - url: https://github.com/AlessioToniolo/Box-Eater
+    - url: https://github.com/AlessioToniolo/Fake-Ticket-Buyer
+    
+- name: Node.js
+  logo: node.js
+  url: https://nodejs.org
+  color: 339933
+  projects: 
+    - url: https://github.com/AlessioToniolo/MongoAuth
+      wip: true
+    - url: https://github.com/AlessioToniolo/Quote-REST-API
+
+- name: Firebase
+  logo: firebase
+  url: https://firebase.google.com/
+  color: ffca28
+  logoColor: "000000"
+  projects: 
+    - url: https://github.com/AlessioToniolo/zwisch.com
+      wip: true
+
+- name: FIRST
+  logo: first
+  color: 0066b3
+  url: https://bit.ly/grizzlybots
+  logoColor: "ffffff"
+  projects: 
+    - url: https://github.com/AlessioToniolo/CobaltCV
+    - url: https://github.com/AlessioToniolo/RRPidf
+      wip: true
+    - url: https://github.com/AlessioToniolo/FTC-16633-Code-For-The-2020-2021-Season
+      wip: true
+    - url: https://github.com/AlessioToniolo/FTC-UG
+    - url: https://github.com/AlessioToniolo/purepursuit
+    - url: https://github.com/AlessioToniolo/FTC-lib
+      wip: true
+      
+- name: Much much more including React, Heroku, Vercel, ML, React Native, Flutter, MongoDB, Sequelize
+  logo: next.js
+  url: reactjs.org
+  color: 111111
+  projects:
+  - url: https://github.com/AlessioToniolo/zwisch.com
+  wip: true
