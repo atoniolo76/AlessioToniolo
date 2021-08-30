@@ -7,6 +7,7 @@ I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 * SQL
 * Java
 * SQLite
+* Machine Learning
 * MongoDB
 * Node.js
 * Express.js
