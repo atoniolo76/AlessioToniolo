@@ -37,6 +37,8 @@ I enjoy 3d printing and fixing phones and tablets for friends and family.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioToniolo)
 
+![](https://komarev.com/ghpvc/?username=AlessioToniolo&color=green)
+
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
