@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=4287f5) <br><br>
+![](https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=4287f5) <br>
 I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 * JavaScript
 * HTML
