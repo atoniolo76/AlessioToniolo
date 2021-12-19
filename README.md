@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=4287f5)
+
 I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 * JavaScript
 * HTML
