@@ -1,5 +1,10 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=4287f5) <br>
+<h3 align="center">
+  𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲! 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
+</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4200&color=AE2138&background=7A7B99&center=true&vCenter=true&lines=Full-stack+Web+Developer;Passionate+High-school+Student+;Life+Scout;Robotics+Team+Captain+%26+Programmer;Specialization+in+CAD+%26+Design;Email+me+at+%22atoniolo76%40gmail.com%22)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=4287f5)
+
 I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 * JavaScript
 * HTML
@@ -23,6 +28,8 @@ I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 * Creating REST APIS
 * Experience with Kotlin, Python, C
 * C++ for Arduino
+
+
 
 I also am the head software developer for the @BotsinBlackRobotics robotics team that competes in the First Tech Challenge, programming
 in Java and Kotlin. 
