@@ -1,5 +1,6 @@
 <h3 align="center">
-  Hey there, I'm Alessio! Welcome to my GitHub.
+  <img src="https://media.giphy.com/media/L4vVcVl3z9IF48G2Pq/giphy.gif" width="64">
+  Hey there, I'm Alessio! Welcome to my GitHub.&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 </h3>
 
@@ -8,7 +9,13 @@
 </h3>
 
 <h3 align="center">
-<img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=4287f5">
+<img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=A31F34">
+<a href="mailto:atoniolo76@gmail.com"><img src="https://img.shields.io/badge/Contact-me-8A8B8C?style=flat-square"></a>
+<a href=""><img src="https://img.shields.io/badge/Education-portfolio-C2C0BF?style=flat-square"></a>
+</h3>
+
+<h3 align="center">
+<img src="https://github.com/AlessioToniolo/AlessioToniolo/blob/main/github-metrics.svg">
 </h3>
 
 I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
@@ -49,6 +56,8 @@ I enjoy 3d printing and fixing phones and tablets for friends and family.
 ![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=AlessioToniolo)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioToniolo)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlessioToniolo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Some things about me:**
 
