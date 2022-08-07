@@ -1,6 +1,6 @@
 <h3 align="center">
   <img src="https://media.giphy.com/media/L4vVcVl3z9IF48G2Pq/giphy.gif" width="64">
-  Hey there, I'm Alessio! Welcome to my GitHub.&nbsp;&nbsp;
+  Hey there, I'm Alessio! Welcome to my GitHub.&nbsp;
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 </h3>
 
@@ -18,7 +18,48 @@
 <img src="https://github.com/AlessioToniolo/AlessioToniolo/blob/main/github-metrics.svg">
 </h3>
 
-I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
+---
+
+## About Me &nbsp;:notebook_with_decorative_cover:
+***What I work on:***
+* I'm a full-stack web-dev and a backend dev with Python and Java, however, I tend to create more web projects.
+* In school, I captain a FIRST Tech Challenge robotics team, and I also lead the code development on our team.
+* I enjoy augmenting the motion-profiling of our robots, and adding intelligent features to make them move more efficiently.
+2022-2023 Will be our 4th year competing with previous accolades including winning the Georgia State Championship twice.
+* Currently, I am working on my [Eagle Scout Project](https://github.com/AlessioToniolo/BSABirds), a website where users in Georgia Parks can detect birds with a phone camera and log them into a public database for population counts.
+
+***Other focuses:***
+* I play tennis competitively and on my school team. 
+* For fun, I enjoy sailing and powerboating and have a boating license.
+
+***Aspirations and Future Goals:***
+* I plan on majoring in Mechanical or Chemical Engineering, with a double major or minor in Business Management.
+* I hope to finish an app that I have been working on since 2020 and release it this year.
+
+---
+
+## Programming Skills &nbsp;:computer:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /></code>
+
+
+<!--
 * JavaScript
 * HTML
 * CSS
@@ -42,8 +83,6 @@ I'm Alessio Toniolo, full-stack Javascript programmer specializing in:
 * Experience with Kotlin, Python, C
 * C++ for Arduino
 
-
-
 I also am the head software developer for the @BotsinBlackRobotics robotics team that competes in the First Tech Challenge, programming
 in Java and Kotlin. 
 
@@ -52,13 +91,18 @@ I compete in competitive programming competitions.
 I use Computer Aided Design softwares to create and build robot and complicated mechanisms.
 
 I enjoy 3d printing and fixing phones and tablets for friends and family.
+-->
 
-![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=AlessioToniolo)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioToniolo)
+## More Stats &nbsp;:chart_with_upwards_trend:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlessioToniolo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=AlessioToniolo&theme=moltack)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioToniolo&langs_count=8&theme=moltack&layout=compact)](https://github.com/AlessioToniolo/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlessioToniolo&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
@@ -87,3 +131,4 @@ I enjoy 3d printing and fixing phones and tablets for friends and family.
     - [app.tallo.com](https://app.tallo.com/profile/1499157?accessCode=-bv1yL63-7uWJWnM1uNZt26iukVIIAUSYwLqGUmNqCA)
 - ⚡ Fun fact: ...
   - Not even in highschool!
+-->
