@@ -21,18 +21,20 @@
 ---
 
 ## About Me &nbsp;:notebook_with_decorative_cover:
-***What I work on:***
-* I'm a full-stack web-dev and a backend dev with Python and Java, however, I tend to create more web projects.
-* In school, I captain a FIRST Tech Challenge robotics team, and I also lead the code development on our team.
-* I enjoy augmenting the motion-profiling of our robots, and adding intelligent features to make them move more efficiently.
-2022-2023 Will be our 4th year competing with previous accolades including winning the Georgia State Championship twice.
-* Currently, I am working on my [Eagle Scout Project](https://github.com/AlessioToniolo/BSABirds), a website where users in Georgia Parks can detect birds with a phone camera and log them into a public database for population counts.
+Innovative entrepreneur & student exploring STEM in robotics, freelancing, and public speaking. I create impactful projects for my community from 5 years of computer science experience.
+
+Some examples include:
+- Generated revenue for 168 businesses in Georgia by creating a website for the Marist Holiday Traditions market.
+- Served the City of Brookhaven with my Eagle Scout project where visitors to 8 local parks can log bird populations in a database.
+- Lead my robotics team in outreach work around Atlanta and won the state championship 2 times.
 
 ***Other focuses:***
-* I play tennis competitively and on my school team. 
-* For fun, I enjoy sailing and powerboating and have a boating license.
+I play tennis competitively and on my school team. Tennis has taught me how to maintain pressure & adversity in my life due to the mental toughness needed during matches & training. 
+
+I also enjoy sailing Lightnings, 420s, and Sunfish, and playing basketball, investing, watching F1, 3D printing, and learning math. 
 
 ***Aspirations and Future Goals:***
+I thrive in opportunities where I'm able to leverage my STEM knowledge & communication skills to solve real-world issues.
 * I plan on majoring in Mechanical or Chemical Engineering, with a double major or minor in Business Management.
 * I hope to finish an app that I have been working on since 2020 and release it this year.
 
