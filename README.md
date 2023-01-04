@@ -20,7 +20,7 @@
 
 ---
 
-## About Me &nbsp;:notebook_with_decorative_cover:
+## About Me &nbsp;📜
 Innovative entrepreneur & student exploring STEM in robotics, freelancing, and public speaking. I create impactful projects for my community from 5 years of computer science experience.
 
 Some examples include:
