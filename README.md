@@ -9,9 +9,9 @@
 </h3>
 
 <h3 align="center">
+<a href="https://www.linkedin.com/in/alessio-toniolo-5826a624b"><img src="https://img.shields.io/badge/My-Linkedin-C2C0BF?style=flat-square"></a>
 <img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=A31F34">
 <a href="mailto:atoniolo76@gmail.com"><img src="https://img.shields.io/badge/Contact-me-8A8B8C?style=flat-square"></a>
-<a href="https://www.linkedin.com/in/alessio-toniolo-5826a624b"><img src="https://img.shields.io/badge/My-Linkedin-C2C0BF?style=flat-square"></a>
 </h3>
 
 <h3 align="center">
