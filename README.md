@@ -31,7 +31,7 @@ Some examples include:
 ***Other focuses:***
 I play tennis competitively and on my school team. Tennis has taught me how to maintain pressure & adversity in my life due to the mental toughness needed during matches & training. 
 
-I also enjoy sailing Lightnings, 420s, and Sunfish, and playing basketball, investing, watching F1, 3D printing, and learning math. 
+I also enjoy sailing Lightnings, 420s, and Sunfish, and playing basketball. 
 
 ***Aspirations and Future Goals:***
 I thrive in opportunities where I'm able to leverage my STEM knowledge & communication skills to solve real-world issues.
