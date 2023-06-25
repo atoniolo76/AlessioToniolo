@@ -1,7 +1,5 @@
 <h3 align="center">
-  <img src="https://media.giphy.com/media/L4vVcVl3z9IF48G2Pq/giphy.gif" width="64">
   Hey there, I'm Alessio! Welcome to my GitHub.&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 </h3>
 
 <h3 align="center">
@@ -11,7 +9,7 @@
 <h3 align="center">
 <a href="https://www.linkedin.com/in/at6"><img src="https://img.shields.io/badge/My-Linkedin-C2C0BF?style=flat-square"></a>
 <img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=A31F34">
-<a href="mailto:atoniolo76@gmail.com"><img src="https://img.shields.io/badge/Contact-me-8A8B8C?style=flat-square"></a>
+<a href="mailto:atoniolo76@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-8A8B8C?style=flat-square"></a>
 </h3>
 
 <h3 align="center">
@@ -21,22 +19,15 @@
 ---
 
 ## About Me &nbsp;📜
-Innovative entrepreneur & student exploring STEM in robotics, freelancing, and public speaking. I create impactful projects for my community from 5 years of computer science experience.
+Innovative entrepreneur & student interested in creating sustainable transportation through skills in robotics and software development.
 
-Some examples include:
+Examples of impact in my community:
+- Created a TEDx event to give a platform for "ideas worth spreading" in my school
+- Served the City of Brookhaven with my Eagle Scout project that tracks 400+ bird populations using an online database for local parks.
 - Generated revenue for 168 businesses in Georgia by creating a website for the Marist Holiday Traditions market.
-- Served the City of Brookhaven with my Eagle Scout project where visitors to 8 local parks can log bird populations in a database.
-- Lead my robotics team in outreach work around Atlanta and won the state championship 2 times.
+- Lead my robotics team in design, programming, and outreach work, which was validated by two state championship wins!
 
-***Other focuses:***
-I play tennis competitively and on my school team. Tennis has taught me how to maintain pressure & adversity in my life due to the mental toughness needed during matches & training. 
-
-I also enjoy sailing Lightnings, 420s, and Sunfish, and playing basketball. 
-
-***Aspirations and Future Goals:***
-I thrive in opportunities where I'm able to leverage my STEM knowledge & communication skills to solve real-world issues.
-* I plan on majoring in Mechanical or Chemical Engineering, with a double major or minor in Business Management.
-* I hope to finish an app that I have been working on since 2020 and release it this year.
+I thrive in opportunities where I can explore new ideas and leverage STEM skills to solve problems for others.
 
 ---
 
