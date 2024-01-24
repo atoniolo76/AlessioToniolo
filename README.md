@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4200&color=AE2138&background=C2C0BF&center=true&vCenter=true&lines=Full-stack+Web+Developer;Passionate+High-school+Student+;Life+Scout;Robotics+Team+Captain;Specialization+in+CAD;Email+me%3A+atoniolo76%40gmail.com" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4200&color=AE2138&background=C2C0BF&center=true&vCenter=true&lines=Full-stack+Web+Developer;Passionate+Student+;Eagle+Scout;Robotics+Team+Captain;Interest in Sustainability;Email+me%3A+atoniolo76%40gmail.com" alt="Typing SVG" /></a>
 </h3>
 
 <h3 align="center">
@@ -19,15 +19,7 @@
 ---
 
 ## About Me &nbsp;📜
-Innovative entrepreneur & student interested in creating sustainable transportation through skills in robotics and software development.
-
-Examples of impact in my community:
-- Created a TEDx event to give a platform for "ideas worth spreading" in my school
-- Served the City of Brookhaven with my Eagle Scout project that tracks 400+ bird populations using an online database for local parks.
-- Generated revenue for 168 businesses in Georgia by creating a website for the Marist Holiday Traditions market.
-- Lead my robotics team in design, programming, and outreach work, which was validated by two state championship wins!
-
-I thrive in opportunities where I can explore new ideas and leverage STEM skills to solve problems for others.
+I'm interested in creating sustainable transportation for solving climate change through my skills in robotics and software development.
 
 ---
 
