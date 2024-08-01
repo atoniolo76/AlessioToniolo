@@ -19,7 +19,7 @@
 ---
 
 ## About Me &nbsp;📜
-I'm interested in creating sustainable transportation for solving climate change through my skills in robotics and software development.
+I'm interested in using AI to solve unfamiliar problems for robotics, especially in the sustainability space!
 
 ---
 
