@@ -82,7 +82,7 @@ I enjoy 3d printing and fixing phones and tablets for friends and family.
 
 ---
 
-## More Stats &nbsp;:chart_with_upwards_trend:
+## More Stats &nbsp;📈
 
 ![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=AlessioToniolo&theme=moltack)
 
