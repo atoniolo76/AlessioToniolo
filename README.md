@@ -21,7 +21,7 @@
 ---
 
 ## About Me &nbsp;📜
-I'm interested in using AI to solve unfamiliar problems for robotics, especially in the sustainability space!
+I'm interested in using AI to solve the climate crisis, like optimizing data center energy consumption!
 
 ---
 
