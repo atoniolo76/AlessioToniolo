@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hey there, I'm Alessio! Welcome to my GitHub.&nbsp;
+  Hi, I'm Alessio!&nbsp;
 </h3>
 
 <!--
@@ -17,11 +17,6 @@
 <h3 align="center">
 <img src="https://github.com/AlessioToniolo/AlessioToniolo/blob/main/github-metrics.svg">
 </h3>
-
----
-
-## About Me &nbsp;📜
-I'm interested in using AI to solve the climate crisis, like optimizing data center energy consumption!
 
 ---
 
