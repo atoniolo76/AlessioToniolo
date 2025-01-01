@@ -9,7 +9,7 @@
 -->
 
 <h3 align="center">
-<a href="https://www.linkedin.com/in/at6"><img src="https://img.shields.io/badge/My-Linkedin-C2C0BF?style=flat-square"></a>
+<a href="https://www.linkedin.com/in/at6"><img src="https://img.shields.io/badge/About-Me-C2C0BF?style=flat-square"></a>
 <img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=A31F34">
 </h3>
 
