@@ -9,8 +9,8 @@
 -->
 
 <h3 align="center">
-<a href="https://www.linkedin.com/in/at6"><img src="https://img.shields.io/badge/About-Me-C2C0BF?style=flat-square"></a>
-<img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=A31F34">
+<a href="https://alessiotoniolo.com"><img src="https://img.shields.io/badge/About-Me-24837B?style=flat-square"></a>
+<img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=24837B">
 </h3>
 
 <h3 align="center">
