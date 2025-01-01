@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi, I'm Alessio!&nbsp;
+  Hi, I'm Alessio.&nbsp;
 </h3>
 
 <!--
