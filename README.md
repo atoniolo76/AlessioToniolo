@@ -9,7 +9,6 @@
 -->
 
 <h3 align="center">
-<a href="https://alessiotoniolo.com"><img src="https://img.shields.io/badge/About-Me-205EA6?style=flat-square"></a>
 <img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=205EA6">
 </h3>
 
