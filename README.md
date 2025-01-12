@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4200&color=AE2138&background=C2C0BF&center=true&vCenter=true&lines=Passions+in+Sustainability;Robotics+and+AI;Eagle+Scout;Email+me%3A+atoniolo76%40gmail.com" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4200&color=AE2138&background=C2C0BF&center=true&vCenter=true&lines=Robotics+and+AI;Passions+in+Sustainability;Eagle+Scout;Email+me%3A+atoniolo76%40gmail.com" alt="Typing SVG" /></a>
 </h3>
 
 
