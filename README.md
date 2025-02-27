@@ -1,4 +1,4 @@
-<h3 align="center">
+<!--<h3 align="center">
   Hi, I'm Alessio.&nbsp;
 </h3>
 
@@ -11,7 +11,14 @@
 <h3 align="center">
 <img src="https://komarev.com/ghpvc/?username=AlessioToniolo&style=flat-square&color=AE2138">
 </h3>
+-->
 
-<h3 align="center">
-<img src="https://github.com/AlessioToniolo/AlessioToniolo/blob/main/github-metrics.svg">
-</h3>
+![Github Stats](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/stats)
+
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/contributions)
+
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/highlights)
+
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/archtype)
+
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/quirk)
