@@ -13,12 +13,4 @@
 </h3>
 -->
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/stats)
-
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/contributions)
-
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/highlights)
-
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/archtype)
-
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/AlessioToniolo/quirk)
+[alessiotoniolo.com](https://alessiotoniolo.com)
